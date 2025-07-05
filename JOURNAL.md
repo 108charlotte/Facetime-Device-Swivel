@@ -15,7 +15,5 @@ Project Inspo:
 
 <img src="https://github.com/user-attachments/assets/1be4ea4e-dec3-4b08-a9c3-baa998063e78" width="400" />
 
-![IMG_3459](https://github.com/user-attachments/assets/1be4ea4e-dec3-4b08-a9c3-baa998063e78)
-
 
 **Total time spent: 1h**
