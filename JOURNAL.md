@@ -13,7 +13,9 @@ Project Inspo:
  - Wood U Make It Adjustable + rotating device stand: https://www.youtube.com/watch?v=kUbFYDo314E
  - Greensaw adjustable + rotating device stand: https://www.youtube.com/watch?app=desktop&v=5w-rA_fyuBs
 
-<img src="[image.png](https://github.com/user-attachments/assets/1be4ea4e-dec3-4b08-a9c3-baa998063e78)" width="300"/>
+<img src="https://github.com/user-attachments/assets/1be4ea4e-dec3-4b08-a9c3-baa998063e78" width="400" />
+
+![IMG_3459](https://github.com/user-attachments/assets/1be4ea4e-dec3-4b08-a9c3-baa998063e78)
 
 
 **Total time spent: 1h**
